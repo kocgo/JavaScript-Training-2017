@@ -1,0 +1,11 @@
+.birb-small {
+  width: 200px;
+  height: 200px;
+  border: outset;
+  border-radius: 10%;
+  border-color: orange;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
