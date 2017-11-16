@@ -7,6 +7,6 @@ function printList( list ) {
     document.write(listHtml);
 }
 
-var listofbirbs = ["Cockatiel","Budgie"];
+var listofbirbs = ["Cockatiel","Budgie","Macaw"];
 
 printList(listofbirbs);
