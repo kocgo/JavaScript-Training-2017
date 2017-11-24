@@ -10,3 +10,12 @@ function printList( list ) {
 var listofbirbs = ["Cockatiel","Budgie","Macaw"];
 
 printList(listofbirbs);
+
+/* For Each Method for Arrays*/
+arr.forEach(function(element))
+
+
+/* For Of Loop , applies the function for each element in the array */
+for (x of arr) {
+  console.log(x);
+}
